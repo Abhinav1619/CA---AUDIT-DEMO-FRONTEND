@@ -1,0 +1,6 @@
+{
+  "name": "Audit Notification Manager",
+  "description": "An interactive frontend portal designed to manage audit notices, client proceedings, and e-proceedings seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
